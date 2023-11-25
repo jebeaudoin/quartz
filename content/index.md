@@ -2,5 +2,8 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation. Jack did this. Really!
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to Jack's notes. Here I'm releasing notes on:
+
+- The Universal Notebook
+
+... and more, perhaps, some day.
