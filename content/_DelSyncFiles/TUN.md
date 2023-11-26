@@ -1,6 +1,7 @@
 ---
 title: What is the Universal Notebook?
 date: 2023-11-25
+draft: "false"
 jackdecimal: "[[../68.02 WritingNoteByNote|68.02 WritingNoteByNote]]"
 tags:
   - s/knowledge_management
