@@ -4,6 +4,7 @@ date: 2023-11-25
 jackdecimal: "[[../68.02 WritingNoteByNote|68.02 WritingNoteByNote]]"
 tags:
   - s/knowledge_management
+draft: "false"
 ---
 The Universal Notebook is a conceptual hybrid of an application and operating system. As a journalist and writer, I wanted to find a way to generate more value from a life of note-taking and note-making. Minimally, a universal notebook makes relevant content — notes, previously published work, journals, transcripts, correspondence, reading annotations, etc. — instantly available to knowledge workers while they are working without unnecessary context shifting.
 
